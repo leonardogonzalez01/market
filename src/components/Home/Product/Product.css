@@ -1,0 +1,12 @@
+.my-marketplace__product{
+    width: 50%;
+
+}
+
+.my-marketplace__product img{
+    max-width: 200px;
+}
+
+.my-marketplace__product p{
+    font-size: 14px;
+}

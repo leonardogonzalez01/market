@@ -1,0 +1,3 @@
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const PLUS_ONE_PRODUCT = 'PLUS_ONE_PRODUCT';
+export const LESS_ONE_PRODUCT = 'LESS_ONE_PRODUCT';
